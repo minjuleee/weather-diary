@@ -15,3 +15,6 @@
 
 ### weekly_report
 - 주차보고서 폴더
+
+### interm presentation.pdf
+- 프로젝트 중간 발표 자료
